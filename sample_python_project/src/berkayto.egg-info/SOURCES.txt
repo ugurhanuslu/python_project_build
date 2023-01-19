@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-src/berkayto.egg-info/PKG-INFO
-src/berkayto.egg-info/SOURCES.txt
-src/berkayto.egg-info/dependency_links.txt
-src/berkayto.egg-info/top_level.txt
-src/devopsdeneme/__init__.py
-src/devopsdeneme/example.py
